@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+google-generativeai
+numpy
+openai
+rank-bm25
+requests
+pytest
+pytest-cov
+httpx

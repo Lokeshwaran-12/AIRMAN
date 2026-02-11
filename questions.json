@@ -1,0 +1,202 @@
+[
+  {
+    "q": "What is the function of the pitot head in the pitot-static system?",
+    "type": "simple"
+  },
+  {
+    "q": "List the main requirements of a pitot tube installation.",
+    "type": "simple"
+  },
+  {
+    "q": "What are the requirements of a static source to ensure accurate pressure measurement?",
+    "type": "simple"
+  },
+  {
+    "q": "Explain what position error is in a pitot-static system.",
+    "type": "simple"
+  },
+  {
+    "q": "State two advantages of using a static vent.",
+    "type": "simple"
+  },
+  {
+    "q": "Why are high-speed probes used on high-performance aircraft instead of simple pitot heads?",
+    "type": "simple"
+  },
+  {
+    "q": "What is manoeuvre-induced error and when is it most likely to occur?",
+    "type": "simple"
+  },
+  {
+    "q": "Describe the components included in a full pitot-static system.",
+    "type": "simple"
+  },
+  {
+    "q": "What problems can occur if pitot covers or static vent plugs are not removed before flight?",
+    "type": "simple"
+  },
+  {
+    "q": "During preflight inspection, how should pitot and static heaters be checked and why are they important?",
+    "type": "simple"
+  },
+  {
+    "q": "What is the purpose of drain holes in a pitot tube?",
+    "type": "simple"
+  },
+  {
+    "q": "Define total pressure in the context of pitot-static systems.",
+    "type": "simple"
+  },
+  {
+    "q": "What is dynamic pressure?",
+    "type": "simple"
+  },
+  {
+    "q": "What is static pressure in aviation?",
+    "type": "simple"
+  },
+  {
+    "q": "Why must the pitot tube be positioned outside the boundary layer?",
+    "type": "simple"
+  },
+  {
+    "q": "What is the purpose of an electric anti-icing heater coil in a pitot tube?",
+    "type": "simple"
+  },
+  {
+    "q": "What instruments typically use pitot pressure?",
+    "type": "simple"
+  },
+  {
+    "q": "What instruments typically use static pressure?",
+    "type": "simple"
+  },
+  {
+    "q": "What is the difference between pitot pressure and static pressure?",
+    "type": "simple"
+  },
+  {
+    "q": "What is cross-coupling in static vent systems?",
+    "type": "simple"
+  },
+  {
+    "q": "If the pitot tube becomes blocked with ice during flight while the drain hole remains open, which instrument will show incorrect readings and why?",
+    "type": "applied"
+  },
+  {
+    "q": "During a climb, if the static port becomes blocked, what will happen to the altimeter reading?",
+    "type": "applied"
+  },
+  {
+    "q": "A pilot notices the airspeed indicator is reading zero during takeoff roll. What are the possible causes?",
+    "type": "applied"
+  },
+  {
+    "q": "If both the pitot tube and drain hole become blocked simultaneously during a descent, how will the airspeed indicator behave?",
+    "type": "applied"
+  },
+  {
+    "q": "During a steep turn at constant altitude, which instruments might be affected by position error?",
+    "type": "applied"
+  },
+  {
+    "q": "A pilot forgets to remove the pitot cover before flight. What will the airspeed indicator show during takeoff?",
+    "type": "applied"
+  },
+  {
+    "q": "In what flight conditions would position error be most significant?",
+    "type": "applied"
+  },
+  {
+    "q": "How would a blocked static port affect the vertical speed indicator during a climb?",
+    "type": "applied"
+  },
+  {
+    "q": "If flying in heavy rain without pitot heat, what problem might occur and how would it affect flight instruments?",
+    "type": "applied"
+  },
+  {
+    "q": "During preflight in cold weather, what specific checks should be performed on the pitot-static system?",
+    "type": "applied"
+  },
+  {
+    "q": "What actions should a pilot take if they suspect a pitot tube blockage during flight?",
+    "type": "applied"
+  },
+  {
+    "q": "How does aircraft angle of attack affect position error in the pitot-static system?",
+    "type": "applied"
+  },
+  {
+    "q": "What is the operational procedure if the static port becomes blocked during flight?",
+    "type": "applied"
+  },
+  {
+    "q": "Why do large aircraft have separate standby static vents for emergency instruments?",
+    "type": "applied"
+  },
+  {
+    "q": "How would side-slipping affect pitot-static readings and which design feature helps reduce this error?",
+    "type": "applied"
+  },
+  {
+    "q": "During a go-around with high nose-up attitude, which instruments might show the greatest errors and why?",
+    "type": "applied"
+  },
+  {
+    "q": "What inspection should be done if an aircraft has been parked outside overnight in freezing conditions before flight?",
+    "type": "applied"
+  },
+  {
+    "q": "If an aircraft experiences a bird strike that damages the pitot tube, what immediate instrument indications would the pilot observe?",
+    "type": "applied"
+  },
+  {
+    "q": "How does the placement of static vents on the fuselage affect measurement accuracy during different flight phases?",
+    "type": "applied"
+  },
+  {
+    "q": "In what scenario would an alternate static source be used, and what instrument errors might result from switching to it?",
+    "type": "applied"
+  },
+  {
+    "q": "Compare the advantages and disadvantages of using simple pitot heads versus high-speed probes on different types of aircraft. When would each be most appropriate?",
+    "type": "reasoning"
+  },
+  {
+    "q": "Analyze why position error increases with speed but is typically greater at high angles of attack. What are the underlying aerodynamic principles?",
+    "type": "reasoning"
+  },
+  {
+    "q": "If an aircraft has both pitot tube and static port blockages simultaneously during flight, describe the cascading effects on all pitot-static instruments and explain the pilot's decision-making process.",
+    "type": "reasoning"
+  },
+  {
+    "q": "Evaluate the design trade-offs between placing static vents in regions of less turbulent airflow versus ensuring they remain effective during side-slip and yaw conditions.",
+    "type": "reasoning"
+  },
+  {
+    "q": "Why do modern aircraft use electronic pressure transducers and air data computers instead of simple mechanical connections? What are the benefits and potential failure modes?",
+    "type": "reasoning"
+  },
+  {
+    "q": "Compare the error characteristics of pitot-static systems during low-speed high-angle-of-attack flight versus high-speed flight. Which errors dominate in each regime and why?",
+    "type": "reasoning"
+  },
+  {
+    "q": "Explain the relationship between boundary layer effects, probe positioning, and measurement accuracy. How do these factors interact in the overall system design?",
+    "type": "reasoning"
+  },
+  {
+    "q": "If water traps are included in pitot-static pipelines, analyze when they would be most critical and what would happen if they failed or were not properly maintained.",
+    "type": "reasoning"
+  },
+  {
+    "q": "Discuss why large aircraft have redundant pitot-static systems with cross-coupling. What failure scenarios are they designed to handle and what are the limitations?",
+    "type": "reasoning"
+  },
+  {
+    "q": "Analyze the conditional logic a pilot must use when experiencing unreliable airspeed indications: how would they determine if the problem is pitot blockage, static blockage, or instrument failure, and what would be the appropriate response for each?",
+    "type": "reasoning"
+  }
+]
