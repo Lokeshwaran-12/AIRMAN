@@ -10,3 +10,4 @@ pytest
 pytest-cov
 httpx
 faiss-cpu
+python-multipart
